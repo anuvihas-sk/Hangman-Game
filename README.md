@@ -49,7 +49,7 @@ You can download and install Python from the [official Python website](https://w
 
 ### Main Files:
 - **`hangman.py`**: This is the core Python script that runs the game.
-- **`words.txt`**: A text file containing a list of words used in the game. You can modify this list to add your own words.
+- **`words.py`**: A text file containing a list of words used in the game. You can modify this list to add your own words.
 
 ## License
 
